@@ -62,6 +62,9 @@ h1, h2, h3, h4, h5, h6 {
 .text-main-secondary {
     color: var(--secondary) !important;
 }
+body.light-mode .white-color {
+    color: white;
+}
 .bg-black {
     background-color: var(--bg-section) !important;
 }
@@ -1265,3 +1268,4 @@ body.light-mode .progress-wrap i {
     opacity: 1;
     transform: rotate(0deg) scale(1);
 }
+
