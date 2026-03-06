@@ -2,7 +2,7 @@
 const projectData = [{
         title: "Motion Reel",
         cat: "video",
-        video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        video: "https://www.youtube.com/watch?v=20VCrgXofdk",
         img: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=800&auto=format&fit=crop"
     },
     {
@@ -759,6 +759,7 @@ if (quickForm) {
             });
     });
 }
+
 
 
 
