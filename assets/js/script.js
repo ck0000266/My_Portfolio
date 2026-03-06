@@ -2,7 +2,7 @@
 const projectData = [{
         title: "Motion Reel",
         cat: "video",
-        Embed: `<iframe width="560" height="315" src="https://www.youtube.com/embed/20VCrgXofdk?si=vqp7KzQe49GDpqhD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        link: "https://www.youtube.com/watch?v=20VCrgXofdk",
         img: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=800&auto=format&fit=crop"
     },
     {
