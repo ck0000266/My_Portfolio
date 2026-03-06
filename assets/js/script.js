@@ -3,31 +3,31 @@ const projectData = [{
         title: "Motion Reel",
         cat: "video",
         link: "https://www.youtube.com/watch?v=20VCrgXofdk",
-        img: "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=800&auto=format&fit=crop"
+        img: "assets/images/gallary_img2.jpeg"
     },
     {
         title: "Website Design",
         cat: "web",
         link: "https://puroheritage.github.io/website/",
-        img: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=800"
+        img: "assets/images/gallary_img3.jpeg"
     },
     {
         title: "Responsive Design",
         cat: "web",
         link: "https://cp-nex.github.io/coinpay_website/",
-        img: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=800"
+        img: "assets/images/gallary_img4.jpeg"
     },
     {
         title: "Brand Identity",
         cat: "graphic",
         link: "https://www.behance.net/chander_kumar/",
-        img: "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=800"
+        img: "assets/images/gallary_img5.jpeg"
     },
     {
         title: "E-Commerce web software",
         cat: "web",
         link: "https://huionproject.great-site.net/",
-        img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=800"
+        img: "assets/images/gallary_img6.jpeg"
     },
 
     {
@@ -40,14 +40,14 @@ const projectData = [{
     {
         title: "Fintech App UI",
         cat: "uiux",
-        img: "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+        img: "assets/images/gallary_img7.jpeg",
         link: "https://www.figma.com/proto/JAGPRgFo3tRP8KQOcS83BA/High-fedility-app?node-id=788-8352&p=f&t=ROJt9c7qJdFQZ9HS-0&scaling=scale-down&content-scaling=fixed&page-id=788%3A8352",
         desc: "Modern Neumorphic Design"
     },
     {
         title: "My Portfolio",
         cat: "portfolio",
-        img: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800",
+        img: "assets/images/gallary_img8.jpeg",
         link: "index.html", // Example ID
         desc: "After Effects Animation"
     }
@@ -759,6 +759,7 @@ if (quickForm) {
             });
     });
 }
+
 
 
 
